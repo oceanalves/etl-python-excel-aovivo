@@ -1,9 +1,9 @@
 <h1>Pipeline ETL com Python: Validando Dados e Planilhas de Excel para BI (Projeto end-to-end!)</h1>
 <p align="center">Projeto - criar um pipeline end-to-end de ETL com Python, validando dados de planilhas Excel para uso em Business Intelligence. Vamos explorar todo o processo, desde a extração dos dados, transformação e limpeza, até o carregamento em uma base estruturada.</p>
 <p align="center">
-        <img width='200' height='140' src="https://suajornadadedados.com.br/wp-content/uploads/2024/05/Logo.svg" />
+        <img width='200' height='90' src="https://d1tumxpvm7f0a4.cloudfront.net/app/teams/logo-dark/1131617/LOGO-2.png?v=1717004000" />
     </p>
-<p align="center">Ciência de Dados - Análise Exploratória de dados - Redes Neurais</p>
+<p align="center">Engenharia de Dados - Extração dos dados, transformação e limpeza, e o carregamento em uma base estruturada</p>
 <p align="center">
     <a alt="GitHub">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,7 +18,7 @@
 
 <h1>
 
-<h3>Criando um um pipeline end-to-end de ETL com Python e Cursor</h3>
+<h3>Criando um um pipeline end-to-end de ETL com Python e o Cursor [he AI Code Editor]</h3>
 
 <a href="https://www.linkedin.com/in/oceanalves/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56139923?v=4" width="100px;" alt=""/>
@@ -29,6 +29,6 @@
 
 <hr>
 
-Este notebook foi criado para fins de estudos.
+Este projeto foi criado para fins de estudos.
 
 - https://www.youtube.com/watch?v=JuOyNPjAer8&t=2770s<br>
